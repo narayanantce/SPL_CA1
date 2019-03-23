@@ -10,6 +10,7 @@
     <service-url>https://jcenter.bintray.com</service-url>
     <service-url>https://github.com/googlei18n/libphonenumber.git</service-url>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8 (1)" project-jdk-type="JavaSDK" />
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
       <option name="id" value="central" />
